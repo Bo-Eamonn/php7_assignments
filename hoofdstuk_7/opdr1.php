@@ -14,46 +14,7 @@ $inclusiefbtw = $exbtw + $btw;
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <style>
-        input[type=text],
-        textarea {
-            width: 100%;
-            padding: 12px;
-            border: 1px solid grey;
-            border-radius: 4px;
-            box-sizing: border-box;
-            margin-top: 6px;
-            margin-bottom: 16px;
-            resize: vertical;
-        }
-
-        label {
-            text-align: justify;
-            color: white;
-        }
-
-        input[type=submit] {
-            background-color: #8AB9E3;
-            color: white;
-            padding: 12px 20px;
-            border: none;
-            border-radius: 4px;
-            cursor: pointer;
-            text-decoration: wavy;
-        }
-
-        input[type=submit]:hover {
-            background-color: #4a4fed;
-        }
-
-
-        #container {
-            border-radius: 5px;
-            background-color: #24252a;
-            padding: 20px;
-            margin: 50px 150px 25px 150px;
-        }
-    </style>
+    
 </head>
 
 <body>
