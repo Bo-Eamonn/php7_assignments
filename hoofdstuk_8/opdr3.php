@@ -21,14 +21,14 @@
             worden geplaatst en dat dit bestand op andere pagina's kan worden ingelezen. <br>
             Voer alle stappen uit die in paragraaf 8.5 genoemd zijn.
             <hr>
-            Zie hier onder voor de output van de laatste stap van paragraaf 8.3
+            In dit geval is er geen visuele output.
         </p>
             <?php
             include("databaseconnectie.php")
             
             ?>
     </div> 
-    
+
         <div id="footer"></div>
 </body>
 
