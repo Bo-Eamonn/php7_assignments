@@ -27,7 +27,7 @@
             include("databaseconnectie.php")
             
             ?>
-
+    </div>
         <div id="footer"></div>
 </body>
 
