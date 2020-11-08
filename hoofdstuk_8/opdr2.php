@@ -21,7 +21,9 @@
             In paragraaf 8.4 wordt uitgelegd hoe je een PHP-script kunt combineren met een database <br>
             Voer alle stappen uit die in paragraaf 8.4 genoemd zijn.
             <hr>
-            Zie hier onder voor de output van de laatste stap van paragraaf 8.4
+            Zie hier onder voor de output van de laatste stap van paragraaf 8.4 <br>
+            Er is niks te zien dat komt omdat er alleen connectie gemaakt word met de database.
+
         </p>
     
             <!-- Conectie maken met de database -->
